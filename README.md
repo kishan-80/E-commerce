@@ -92,19 +92,6 @@ Application runs at: `http://localhost:8080`
 
 ---
 
-##  Screenshots (optional if UI exists)
-
-<details>
-<summary>Register User</summary>
-<img src="screenshots/register.png" alt="Register Screenshot" width="600"/>
-</details>
-
-<details>
-<summary>Place Order</summary>
-<img src="screenshots/order.png" alt="Order Screenshot" width="600"/>
-</details>
-
----
 
 ##  Folder Structure
 
@@ -131,9 +118,3 @@ src/
 - Dockerize the app
 
 ---
-
-##  Author
-
-**Kishan Mishra**  
-_BTech AIML, LNCT-S Bhopal_  
-Feel free to connect on [LinkedIn](https://linkedin.com)
